@@ -1,0 +1,107 @@
+{
+    "allGoods": [
+        {
+            "goodsId": "0001",
+            "goodsName": "官窑宋瓷",
+            "goodsBrief": "朝代：北宋",
+            "goodsImg": "guanyao.webp",
+            "goodsPrice": "23699",
+            "goodsType": "phone"
+        },
+        {
+            "goodsId": "0002",
+            "goodsName": "花鸟",
+            "goodsBrief": "朝代：北宋",
+            "goodsImg": "max2.webp",
+            "goodsPrice": "235452",
+            "goodsType": "phone"
+        },
+        {
+            "goodsId": "0003",
+            "goodsName": "书法",
+            "goodsBrief": "朝代：北宋",
+            "goodsImg": "mix2.jpg",
+            "goodsPrice": "125399",
+            "goodsType": "phone"
+        },
+        {
+            "goodsId": "0004",
+            "goodsName": "宋徽宗书画",
+            "goodsBrief": "朝代：北宋",
+            "goodsImg": "note3.webp",
+            "goodsPrice": "13535799",
+            "goodsType": "phone"
+        },
+        {
+            "goodsId": "0005",
+            "goodsName": "书画2",
+            "goodsBrief": "朝代：北宋",
+            "goodsImg": "note5.jpg",
+            "goodsPrice": "335435299",
+            "goodsType": "phone"
+        },
+        {
+            "goodsId": "0006",
+            "goodsName": "玉器",
+            "goodsBrief": "朝代：南宋",
+            "goodsImg": "router3.webp",
+            "goodsPrice": "13535999",
+            "goodsType": "smartdevice"
+        },
+        {
+            "goodsId": "0007",
+            "goodsName": "弹琴图",
+            "goodsBrief": "朝代：西晋",
+            "goodsImg": "tanqin.webp",
+            "goodsPrice": "24574599",
+            "goodsType": "smartdevice"
+        },
+        {
+            "goodsId": "0008",
+            "goodsName": "玉器2",
+            "goodsBrief": "朝代：清朝",
+            "goodsImg": "tv4a-65.webp",
+            "goodsPrice": "1353549",
+            "goodsType": "smartdevice"
+        },
+        {
+            "goodsId": "0009",
+            "goodsName": "玉器",
+            "goodsBrief": "朝代：明朝",
+            "goodsImg": "yupei.webp",
+            "goodsPrice": "1599",
+            "goodsType": "TV"
+        },
+        {
+            "goodsId": "0010",
+            "goodsName": "玉器",
+            "goodsBrief": "朝代：唐",
+            "goodsImg": "yuqi.webp",
+            "goodsPrice": "2699",
+            "goodsType": "TV"
+        },
+        {
+            "goodsId": "0011",
+            "goodsName": "茶杯",
+            "goodsBrief": "朝代：清朝",
+            "goodsImg": "yuqi2.webp",
+            "goodsPrice": "44499",
+            "goodsType": "TV"
+        },
+        {
+            "goodsId": "0012",
+            "goodsName": "铜镜",
+            "goodsBrief": "朝代：西汉",
+            "goodsImg": "tongjing.jpg",
+            "goodsPrice": "934599",
+            "goodsType": "phone"
+        },
+        {
+            "goodsName": "玉器2",
+            "goodsBrief": "朝代：清朝",
+            "goodsImg": "tv4a-65.webp",
+            "goodsPrice": "1353549",
+            "goodsType": "smartdevice"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "goodsList": [
+        {
+            "goodsId": "0001",
+            "goodsName": "玉佩",
+            "goodsBrief": "朝代：明朝",
+            "goodsImg": "yupei.webp",
+            "goodsPrice": "113799"
+        },
+        {
+            "goodsId": "0003",
+            "goodsName": "铜镜",
+            "goodsBrief": "朝代：清朝",
+            "goodsImg": "tongjing.jpg",
+            "goodsPrice": "11299"
+        },
+        {
+            "goodsId": "0006",
+            "goodsName": "弹琴图",
+            "goodsBrief": "朝代：西汉",
+            "goodsImg": "tanqin.webp",
+            "goodsPrice": "19199"
+        },
+        {
+            "goodsId": "0007",
+            "goodsName": "玉器",
+            "goodsBrief": "朝代：民国",
+            "goodsImg": "yuqi.webp",
+            "goodsPrice": "29139"
+        },
+        {
+            "goodsId": "0009",
+            "goodsName": "玉器2",
+            "goodsBrief": "朝代：唐朝",
+            "goodsImg": "yuqi2.webp",
+            "goodsPrice": "151399"
+        },
+        {
+            "goodsId": "0010",
+            "goodsName": "官窑宋瓷",
+            "goodsBrief": "朝代：北宋",
+            "goodsImg": "guanyao.webp",
+            "goodsPrice": "23699"
+        }
+    ]
+}
